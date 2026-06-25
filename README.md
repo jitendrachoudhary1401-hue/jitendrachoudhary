@@ -1,81 +1,108 @@
 # 💫 About Me
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Aaryan!%20👋&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Jitendra!%20👋&fontSize=50&animation=fadeIn" />
 </p>
 
-### 🎓 Aspiring AI Engineer & Full-Stack Developer 🚀
+### 🎓 AI & ML Student | 🚀 Aspiring AI Developer & Startup Founder
 
-Hi there, I'm **Aaryan**! I'm a **B.Tech CSE student specializing in AI & ML** at *Lokmanya Tilak College of Engineering*. As an aspiring AI Engineer with a strong background in software development and data science, I am deeply passionate about building **tech for social good** and am always geared up for the next hackathon. I love turning complex ideas into highly functional, scalable web platforms!
+Hi there, I'm **Jitendra Choudhary**! I'm a **2nd-year B.Tech student in Artificial Intelligence & Machine Learning** at *Lokmanya Tilak College of Engineering*. I enjoy learning new technologies every day and am passionate about building AI-powered applications that solve real-world problems. 
+
+I have a strong interest in **Artificial Intelligence, Web Development, Security, and UI/UX Design**. I enjoy turning ideas into practical applications, participating in hackathons, and collaborating on projects that create meaningful impact. 
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Tools
 
-#### 🤖 Artificial Intelligence & Data Science
+#### 💻 Languages
 <p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector_Databases-006400?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multi--Agent_Systems-7B1FA2?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
 #### 🌐 Web Development
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+#### ⚙️ Tools & OS
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 ---
 
-### 🧱 Projects I've Built & Am Building
+### 🚀 Projects
 
-*   🤖 **Kasaudhan Mart** – An AI-driven e-commerce platform utilizing a multi-agent system and a private-by-design architecture via the *OpenClaw* framework.
-*   🏛️ **HeritageWeave** – An unbiased AI middleware project designed to mitigate representational bias in cultural and historical generative outputs.
-*   🍎 **MEALers Connect** – An AI-powered food donation platform that analyzes surplus food to facilitate efficient redistribution for social good.
-*   🐾 **Rescue Paws** – A community-driven web platform designed to rescue street animals by allowing users to post sightings and location details.
-*   💻 **LOS (Learning Operating System)** – A comprehensive educational environment tailored for enhanced, interactive learning experiences.
-*   🌾 **Kisan Udyog** – A digital initiative bringing technical innovation to sustainable and traditional agriculture.
-*   🤝 **NeighborLend & StudySerene** – Community-focused platforms enabling seamless resource sharing and collaborative study.
-*   🧠 **Mento Intello** – An interactive web application built to guide users through crucial career decisions.
+*   🐾 **RescuePaw** – A web application designed to help people report injured or stray animals. Users can share their live or manual location to enable faster rescue efforts. It also features a portal for animal food donations and locating nearby pet food stores. 
+    *   *Tech Stack:* TypeScript, Python, C++, HTML, CSS, React, Next.js
+    *   *Status:* ✅ Completed *(Currently seeking NGO support for deployment)*
 
 ---
 
 ### 📈 What I'm Up To
 
-*   🌱 **Currently Learning:** Advanced machine learning techniques, vector database integration, multi-agent AI architectures, and complex numerical methods in engineering.
-*   👯 **Looking to Collaborate On:** Impactful AI/ML projects, upcoming hackathons, and robust, production-ready full-stack web applications.
-*   🤝 **Looking for Help With:** Optimizing complex models, orchestrating multi-agent systems, and scaling heavy applications.
-*   💬 **Ask Me About:** Tech for social impact, full-stack architectures, and winning hackathon pitching strategies!
+*   🌱 **Currently Learning:** Data Structures & Algorithms, AI & ML, System Design, AI Agents, Deployment & DevOps, and Competitive Programming.
+*   👯 **Looking to Collaborate On:** AI/ML Projects, Open Source Contributions, Startup Ideas, Hackathons, and Innovative Web Applications.
+*   🤝 **Looking for Help With:** AI Agent Development, System Design, Application Deployment, Competitive Programming, and Scalable Architecture.
+*   💬 **Ask Me About:** Artificial Intelligence, Hackathons, Python & TypeScript, React & Next.js, Web Dev, and Problem Solving.
 
 ---
 
-### ⚡ Fun Facts & Interests
-*   🧮 I'm deeply fascinated by ancient mathematics, especially the revolutionary discoveries of **Aryabhatta**.
-*   🌱 I hold a strong side interest in **sustainable and traditional agriculture** and love finding ways to bridge it with modern technology.
+### 🏆 Achievements & 🎯 Goals
+
+**Achievements:**
+*   📜 Earned **3+ technical certifications**.
+*   🌍 Received a certificate from an **international hackathon**.
+*   🤝 Contributed to collaborative software projects.
+*   💡 Active participant in hackathons and project-based learning.
+
+**Goals:**
+*   Become a skilled **AI Developer** & build impactful AI products.
+*   Contribute heavily to Open Source and launch my own startup.
+
+---
+
+### ⚡ Fun Facts
+
+*   🎮 I'm a massive gamer at heart.
+*   🌙 Most of my best projects and ideas are built **after 12 AM**.
+*   ➗ I genuinely enjoy solving complex mathematical problems.
+*   🚀 I am always excited to dive into and explore new technologies.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true" alt="Aaryan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true" alt="Jitendra's GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 ---
+
+> *"I believe the best way to learn is by building real projects, collaborating with others, and continuously challenging myself."* 🚀
 
 ### 🌐 Let's Connect!
 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
