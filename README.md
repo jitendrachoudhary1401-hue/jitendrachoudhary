@@ -85,15 +85,15 @@ I have a strong interest in **Artificial Intelligence, Web Development, Security
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true" alt="Jitendra's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jitendrachoudhary1401-hue&show_icons=true&theme=radical&count_private=true" alt="Jitendra's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jitendrachoudhary1401-hue&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitendrachoudhary1401-hue&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
